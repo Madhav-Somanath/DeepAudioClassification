@@ -37,3 +37,5 @@ python main.py test
 - I haven't implemented the pipeline to label new songs with the model, but that can be easily done with the provided functions, and eyed3 for the mp3 manipulation. Here's the full pipeline you would need to use.
 
 ![alt tag](https://github.com/despoisj/DeepAudioClassification/blob/master/img/pipeline.png)
+
+- **Note:** Additional parameters for adding in auto genre selection and putting it under multiple genres will be implemented in v1.1 (2020)
